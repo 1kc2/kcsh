@@ -2,7 +2,6 @@
 
 A tiny UNIX shell written in C.
 
----
 # Features
 
 * Parses commands from standard input and executes them until a command exit is evaluated;
