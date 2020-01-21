@@ -8,7 +8,7 @@ A tiny UNIX shell written in C.
   
 * Terminates the foreground process upon input of `^D`;
 
-* Change directory usind `cd` command, and display files/directories within a directory using `ls`;
+* Change directory using `cd` command, and display files/directories within a directory using `ls` as well as all other built-in functions;
 
 * Executes any number of processes in background (i.e., in parallel with the foreground process), including in particular, the ability to start another process while a process has been temporarily suspended;
 
